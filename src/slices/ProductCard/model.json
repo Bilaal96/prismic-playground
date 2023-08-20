@@ -1,0 +1,16 @@
+{
+  "id": "product_card",
+  "type": "SharedSlice",
+  "name": "ProductCard",
+  "description": "ProductCard",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": ""
+    }
+  ]
+}

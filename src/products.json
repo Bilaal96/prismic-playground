@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "imageSrc": "/product-1.jpg",
+    "name": "Product 1",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas ab, numquam tempora expedita sunt quaerat delectus. Corrupti commodi, excepturi ut cum nostrum repudiandae laboriosam, repellat provident animi unde hic enim.",
+    "cost": 100,
+    "stock": 10,
+    "category": "hats"
+  },
+  {
+    "id": 2,
+    "imageSrc": "/product-2.jpg",
+    "name": "Product 2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas ab, numquam tempora expedita sunt quaerat delectus. Corrupti commodi, excepturi ut cum nostrum repudiandae laboriosam, repellat provident animi unde hic enim.",
+    "cost": 200,
+    "stock": 20,
+    "category": "shoes"
+  },
+  {
+    "id": 3,
+    "imageSrc": "/product-3.jpg",
+    "name": "Product 3",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas ab, numquam tempora expedita sunt quaerat delectus. Corrupti commodi, excepturi ut cum nostrum repudiandae laboriosam, repellat provident animi unde hic enim.",
+    "cost": 300,
+    "stock": 30,
+    "category": "shoes"
+  },
+  {
+    "id": 4,
+    "imageSrc": "/product-4.jpg",
+    "name": "Product 4",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas ab, numquam tempora expedita sunt quaerat delectus. Corrupti commodi, excepturi ut cum nostrum repudiandae laboriosam, repellat provident animi unde hic enim.",
+    "cost": 400,
+    "stock": 40,
+    "category": "shoes"
+  },
+  {
+    "id": 5,
+    "imageSrc": "/product-5.jpg",
+    "name": "Product 5",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas ab, numquam tempora expedita sunt quaerat delectus. Corrupti commodi, excepturi ut cum nostrum repudiandae laboriosam, repellat provident animi unde hic enim.",
+    "cost": 500,
+    "stock": 50,
+    "category": "shoes"
+  }
+]
